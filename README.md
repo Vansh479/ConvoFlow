@@ -1,5 +1,5 @@
 
-ConvoFlow
+##ConvoFlow
 ConvoFlow is a real-time messaging web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). This project demonstrates how to create a full-stack web app with user authentication, message handling, and a modern, responsive UI using Material-UI.
 
 Features
@@ -10,13 +10,13 @@ Express API: Backend server with endpoints for message handling.
 MongoDB Integration: Data storage for messages.
 Technologies Used
 Frontend:
-  React.js
-  Material-UI
+ - React.js
+ -Material-UI
 Backend:
-  Node.js
-  Express.js
-  MongoDB
+ - Node.js
+ - Express.js
+ - MongoDB
 API:
-  RESTful API using Express.js
-  Deployment:
-  GitHub for version control
+ - RESTful API using Express.js
+ - Deployment:
+ - GitHub for version control
