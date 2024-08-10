@@ -10,13 +10,13 @@ Express API: Backend server with endpoints for message handling.
 MongoDB Integration: Data storage for messages.
 Technologies Used
 Frontend:
-React.js
-Material-UI
+  React.js
+  Material-UI
 Backend:
-Node.js
-Express.js
-MongoDB
+  Node.js
+  Express.js
+  MongoDB
 API:
-RESTful API using Express.js
-Deployment:
-GitHub for version control
+  RESTful API using Express.js
+  Deployment:
+  GitHub for version control
