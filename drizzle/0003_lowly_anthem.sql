@@ -1,1 +1,0 @@
-ALTER TABLE "channel" ADD COLUMN "dm_usernames" varchar(64)[];
