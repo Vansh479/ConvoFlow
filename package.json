@@ -3,13 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "custom:dev": "tsx src/server.ts",
-  "build": "next build && tsc --project tsconfig.server.json",
-  "start": "cross-env NODE_ENV=production node dist/server.js",
-  "lint": "next lint"
-   },
-
+    "dev": "next dev",
+    "custom:dev": "tsx src/server.ts",
+    "build": "next build && tsc --project tsconfig.server.json",
+    "start": "cross-env NODE_ENV=production node dist/server.js",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@lucia-auth/adapter-drizzle": "^1.1.0",
@@ -31,7 +30,7 @@
     "immer": "^10.1.1",
     "lucia": "^3.2.0",
     "lucide-react": "^0.446.0",
-    "next": "14.2.13",
+    "next": "14.2.35",
     "pg": "^8.13.0",
     "rate-limiter-flexible": "^5.0.3",
     "react": "^18",
